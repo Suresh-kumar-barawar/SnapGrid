@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://snapgrid.vercel.app/sitemap.xml
+Sitemap: https://snap-grid-maker.vercel.app/sitemap.xml
+
