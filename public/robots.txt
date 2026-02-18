@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snapgrid.vercel.app/sitemap.xml

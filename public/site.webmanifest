@@ -1,0 +1,16 @@
+{
+  "name": "SnapGrid",
+  "short_name": "SnapGrid",
+  "description": "Passport and ID photo grid generator with high-quality print export.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
